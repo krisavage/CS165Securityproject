@@ -1,0 +1,73 @@
+Krishna Ganapathi 
+
+
+Gold Miner Cyber Security
+Cyber Attacks Threaten Companies
+
+like +2 (0) dislike
+Comments (0)
+
+By Joseph Cafariello
+Friday, November 22nd, 2013
+
+Do you know your portfolio’s level of risk? Most investors believe they do, citing such risks as stock market risk, interest rate risk, currency risk, and -- depending on their particular holdings – perhaps even geopolitical risk.
+
+But there is one risk people rarely associate with their stock holdings… cyber risk, such as remote internet attacks and infiltration by unauthorized hackers into the computer systems of the companies you own.
+
+hackersAs a prudent investor, you have likely conducted extensive research on the risks associated with your stocks before you bought them. But a recent report by business consultancy firm Ernst and Young Global Limited shows it may be high time to assess cyber risk when choosing your stocks. Why? Because a surprising number of companies are not taking the necessary precautions, putting their companies’ operations and performance at risk, which in turn puts your portfolio at risk if you own their stocks.
+
+Knowing how effectively – or ineffectively – your companies protect themselves against cyber risk may prompt you to make a few changes to your holdings. So let’s take a peek into Ernst and Young’s Global Information Security Survey 2013 to get a better idea of what to look for in a company’s plan of defense against cyber risk.
+
+Who and What are at Risk
+
+Conducted in June and July of this year, Ernst and Young surveyed more than 1,900 respondents in 64 countries across 25 industry sectors, which included aerospace and defense, automotive, banking and capital markets, government and public sector, insurance, mining and metals, oil and gas, retail, technology, and transportation, among others.
+
+They asked CEOs, CFOs, CIOs, CISOs, and their information security departments how well they understood the cyber threats to their own operations and what measures they were taking to counter them. Their responses are rather disconcerting.
+
+    59% of organizations cite an increase in external threats, while 31% of respondents say the number of actual security incidents has increased over the previous 12 months;
+
+    45% of respondents say mobile computing has most changed their risk exposure, while 32% say that phishing (such as emails asking for login information under guise) has most changed their risk exposure;
+
+    65% of respondents cite budget constraints as their number one obstacle to delivering value to the business, and 50% cite a lack of skilled resources as a barrier to value creation;
+
+    62% of organizations have not aligned their information security strategy to their risk appetite or tolerance, while 68% say their information security function only partially meets organizational needs.
+
+The report found that while “many organizations are increasing investment in information security, many information security professionals continue to feel that their budgets are insufficient to address mounting cyber risks,” resulting in a lack of “skilled resources” (or qualified personnel).
+
+Yet an effective campaign against cyber risk may not be as costly as most believe, given the relative simplicity of the three main types of threats… phishing, malware (such as viruses, worms, and Trojan horses), and spam. As these threats are all introduced through simple emails, a properly administered education program among employees and a few simple emailing rules and precautions can take care of the vast majority of cyber threats at very little cost.
+
+As the report puts it, “Organizations need to place more emphasis on improving employee awareness, increasing budgets and devoting more resources to innovating security solutions. These efforts need to be championed by executives at the highest level of the organization, who need to be aware that 80% of the solution is non-technical — it’s a case of good governance.”
+
+Still, the remainder of cyber threats – less common though they may be – can be the most damaging, including internet attacks by rivals or activists to disrupt or deface the organization, fraud, theft of financial information (such as credit card numbers and banking information), theft of intellectual property or data, even espionage by competitors and foreign governments.
+
+“If they succeed in infiltrating an organization’s security perimeter,” the report underscores the gravity, “the consequences are distracting at the least, paralyzing at the worst. Security breaches can derail key objectives; undermine the confidence of shareholders, analysts and consumers; damage your brand reputation; and cause significant financial harm.”
+
+Miners Fall Prey
+
+Among the most frequently attacked industries is the mining space. “Criminals are attracted to the sector because of the massive cash flows,” Reuters cites the report’s commentary. “The list of cyber adversaries has grown to include criminals, national governments and ‘hacktivists’, and their target list has likewise grown,” the report elaborated.
+
+“Cyber networks contain valuable information around policies, intellectual property, as well as what you’ve been working on – all of which is of value to customers, hackers, hacktivists, and criminal syndicates,” alerted an Australian mining security conference earlier this year.
+
+To make matters worse, the spectacular fall of commodity prices over the past two years has forced many miners to slash budgets and trim operations, often sacrificing security. Barrick Gold (NYSE: ABX) is closing its South American Pascua-Lama project, while Kinross Gold (NYSE: KGC) is closing its Fruta del Norte project in Ecuador citing a breakdown in negotiations with the government over its 70% windfall tax. Kinross is also cutting 300 jobs in its operations in Mauritania and Spain due to the lower gold price.
+
+The third largest gold miner in Russia, Polymetal (LSE: POLY), is delaying several sites there, while Petropavlovsk has postponed the development of a major processing plant – all citing lower revenues from falling commodity prices.
+
+Falling prices and revenues are not helping miners’ defenses against cyber attacks as budgets shrink and allocations to information security are reduced. Consequently, over 40% of the metals and mining companies surveyed in the Ernst and Young report experienced an increase in cyber attacks over the past twelve months.
+
+Mike Elliott, head of Ernst & Young's global metals and mining, indicated to Reuters that it’s the little operations that are struggling just to survive who are at greatest risk, the “small to mid-sized companies who produce strategic metals such as rare earths, tin and tungsten.”
+
+As well, tighter budgets often force smaller companies to rely more heavily on “web-connected technology and automated systems which could be infiltrated,” the report explains.
+
+Investors Can Mitigate Cyber Risk
+
+Knowing, then, that the smaller mining operations are at greater risk of cyber-based thefts and interruptions to their activities, investors may decide to eliminate such risk where the operators can’t by investing primarily in the larger mining companies.
+
+Another precaution investors can take is to spread their investments across multiple miners, perhaps through mutual funds or ETFs. Two such funds specific to gold and metals miners are the Market Vectors Gold Miners ETF (NYSE: GDX) holding 37 large cap mining companies, and the Market Vectors Junior Gold Miners ETF (NYSE: GDXJ) comprised of 71 junior miners.
+
+And while we’re at it, it may be wise for investors to take measures to protect their own accounts and financial information from hackers. Change your passwords every few months, use firewalls and antivirus software, do not open any email attachments from people you don’t know, and do not follow links in emails asking you to click and log in to your bank account.
+
+Phishers of information will often use the official logos of banks, credit card companies, or other institutions in emails claimed to be from their I.T. or credit departments. But when you look at their return addresses, they often have different email extensions. When in doubt, always call your institution using its normal customer service line to make an inquiry.
+
+And beware of telephone surveys asking questions about your employment, income, or properties you might own. Identity thieves get what information they can about their victims in cyberspace first and often follow up with phone calls to gather the rest.
+
+Joseph Cafariello
